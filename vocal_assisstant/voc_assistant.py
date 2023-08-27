@@ -14,7 +14,7 @@ import geocoder
 r = sr.Recognizer()
 
 # Utilisation de Nominatim pour créer un géolocalisateur
-geolocator = Nominatim(user_agent="jarvis")
+geolocator = Nominatim(user_agent="user")
 
 g = geocoder.ip('me')
 my_lat = g.latlng[0]
