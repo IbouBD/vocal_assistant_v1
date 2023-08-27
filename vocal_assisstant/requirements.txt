@@ -6,3 +6,4 @@ geopy
 pyroutelib3
 numpy
 pyaudio
+keyboard
