@@ -1,7 +1,8 @@
-pyttsx3==2.90
-SpeechRecognition==3.8.1
-pywhatkit==5.2.0
-folium==0.12.1
-geopy==2.2.0
-pyroutelib3==1.1.17
-numpy==1.21.0
+pyttsx3
+SpeechRecognition
+pywhatkit
+folium
+geopy
+pyroutelib3
+numpy
+pyaudio
