@@ -9,8 +9,7 @@ Un assistant vocal simple en Python utilisant la reconnaissance vocale et la syn
 - [Configuration](#configuration)
 - [Utilisation](#utilisation)
 - [Dépendances](#dépendances)
-- [Auteur](#auteur)
-- [Licence](#licence)
+
 
 ## Présentation
 
@@ -51,11 +50,11 @@ Parlez dans le microphone de votre ordinateur et donnez des commandes vocales te
 
 Suivez les instructions vocales pour interagir avec l'assistant.
 
-Dépendances
-pyttsx3
-SpeechRecognition
-pywhatkit
-folium
-geopy
-pyroutelib3
-numpy
+## Dépendances
+- pyttsx3
+- SpeechRecognition
+- pywhatkit
+- folium
+- geopy
+- pyroutelib3
+- numpy
